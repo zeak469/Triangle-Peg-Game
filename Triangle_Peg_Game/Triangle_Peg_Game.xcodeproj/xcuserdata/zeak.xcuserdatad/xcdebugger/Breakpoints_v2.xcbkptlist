@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AC7946B5-2EF2-4D70-B5B9-861951833CA0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D8EA683-1222-42D2-840E-D640FA469794"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "deactiveJumpedNode(jumpToNode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - 4233ae97186435fc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.TimerLabel.getter : __C.SKLabelNode"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - c018afa4098101c8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.TimerLabel.setter : __C.SKLabelNode"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - 9c2b27f773d84ef9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.TimerLabel.modify : __C.SKLabelNode"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - 60a51797f0734013"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.TimerLabel.modify : __C.SKLabelNode with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - d0b429c793082df0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.init(size: __C.CGSize) -&gt; Triangle_Peg_Game.GameScene"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - cb7c5b4c437d8835"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.init() -&gt; Triangle_Peg_Game.GameScene"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "9D4C2865-BDFF-4471-890F-81E02BD5F41B - 87140a88e06d0c88"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triangle_Peg_Game.GameScene.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Triangle_Peg_Game.GameScene&gt;"
+                  moduleName = "Triangle_Peg_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeak/Desktop/School%2020/Holder&apos;s/Triangle_Peg_Game/Triangle_Peg_Game/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D8181AE-531B-4AF7-8A2C-9EAA9DFA5F53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/YourScoreScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD03A440-4B02-48C7-889B-945887DCB377"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/HighScoreScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "clearScores()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04784E95-FE60-41B0-BE22-46A88162086D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/HighScoreScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "generateScores()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD30DFE9-60DB-43E6-AD5F-010EE71C77ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/HighScoreScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "generateScores()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC2FE9B9-4238-4B95-9094-8B46B04E9ED7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/HighScoreScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "generateScores()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D08DFB2-B030-42BD-9CCB-A2857AAE8A8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triangle_Peg_Game/HighScoreScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "getHighScoresClass()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
