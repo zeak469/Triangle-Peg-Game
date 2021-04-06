@@ -7,4 +7,4 @@ Once you win, you will be asked for your initials, and it will store your time i
 
 Game must be played in horizontal mode
 
-![](video_capture.mp4)
+![](Triangle_Peg_Game.gif)
