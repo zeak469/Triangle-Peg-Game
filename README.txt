@@ -7,4 +7,4 @@ Once you win, you will be asked for your initials, and it will store your time i
 
 Game must be played in horizontal mode
 
-![](Screen Recording 2020-11-05 at 12.42.20 AM.mov)
+![](video_capture.mp4)
